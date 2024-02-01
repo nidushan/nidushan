@@ -15,7 +15,6 @@ FRAMEWORKS, PLATFORMS & LIBRARIES
 Others
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=nidushan&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nidushan&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
